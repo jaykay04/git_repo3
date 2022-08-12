@@ -6,10 +6,6 @@ This is a sample Project to Demonstrate my Git Capabilities
 
 Just something going on
 
-Update in Stage
-
-More Updates
-
-Edit on example branch
-
 Now updating on update-readme branch
+
+Update Locally 
