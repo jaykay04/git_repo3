@@ -6,6 +6,4 @@ This is a sample Project to Demonstrate my Git Capabilities
 
 Just something going on
 
-Now updating on update-readme branch
-
-Update Locally 
+Updates made on master in Github before rebase
